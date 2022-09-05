@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvinOlsob
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on developing websites.
+- 👀 I’m interested in Quality Assurance!
+- 🌱 I’m currently studying Quality Assurance.
+- 💞️ I’m looking to collaborate on software testing.
 - 📫 How to reach me: mv.olsob@gmail.com
 
 <!---
